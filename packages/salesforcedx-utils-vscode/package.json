@@ -5,7 +5,9 @@
   "version": "45.7.0",
   "publisher": "salesforce",
   "license": "BSD-3-Clause",
-  "categories": ["Other"],
+  "categories": [
+    "Other"
+  ],
   "dependencies": {
     "cross-spawn": "6.0.5",
     "path-exists": "3.0.0",
